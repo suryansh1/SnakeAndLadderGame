@@ -1,5 +1,4 @@
-Snake & Ladder with No Graphics
-
+**Snake & Ladder with No Graphics**
 
 In this project we will develop a Snake and Ladder game. However, we have made things a bit easy for ourselves by avoiding graphics and slightly changing the rules of the game. Rules of our Snake and Ladder are as follows:
 1) We have just 1 player in the game.
@@ -39,6 +38,7 @@ Your Output Should somewhat like this :
 
 
 ----------------------------- Total Dice rolls before this: 0 ----------------------------------
+
 Ladders: [(5, 10), (18, 59), (79, 100)]
 Snakes: [(11, 7), (27, 4), (82, 63)]
 CurrentPosition: 0
@@ -54,6 +54,7 @@ PlayerState: AtHome
 
 
 ----------------------------- Total Dice rolls before this: 1 ----------------------------------
+
 Ladders: [(5, 10), (18, 59), (79, 100)]
 Snakes: [(11, 7)]
 CurrentPosition: 0
@@ -68,6 +69,7 @@ PlayerState: RoamFree
 ---------------------------------------------------------------
 
 -----------------------------Total Dice rolls before this: 2 ----------------------------------
+
 Ladders: [(5, 10), (18, 59), (79, 100)]
 Snakes: [(11, 7)]
 CurrentPosition: 0
@@ -82,6 +84,7 @@ PlayerState: RoamFree
 ---------------------------------------------------------------
 
 ----------------------------Total Dice rolls before this: 3-----------------------------------
+
 Ladders: [(5, 10), (18, 59), (79, 100)]
 Snakes: [(11, 7)]
 CurrentPosition: 10
@@ -98,6 +101,7 @@ PlayerState: RoamFree
 This keeps on going till the very end, when we reach a situation like
 
 ------------------------- Total Dice rolls before this: 28 --------------------------------------
+
 Ladders: [(5, 10), (18, 59), (79, 100)]
 Snakes: [(11, 7)]
 CurrentPosition: 98
